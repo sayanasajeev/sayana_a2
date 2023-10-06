@@ -1,0 +1,47 @@
+.p{
+   float: right;
+    padding-left: 100px;
+    margin-right: 90px;
+    border:2px solid black;
+    padding-top: 10px;
+    padding-left: 10px;
+    background-color: rgb(236, 147, 111);
+}
+.p1{
+    float: right;
+    margin-top: 40px;
+    margin-left: 500px;
+    color: rgb(117, 16, 37);
+    
+}
+.photo{
+    margin-left: 150px;
+    
+}
+.skill{
+    margin-left: 80px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(24, 116, 9);
+}
+.education{
+    margin-left:80px ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    color: rgb(76, 4, 124);
+}
+.top{
+    float: right;
+}
+.box{
+    float: right;
+}
+.contact{
+    
+    margin-left: 550px;
+    font-style: italic;
+    color: rgb(250, 5, 5);
+    
+}
+.copyright{
+    color: rgb(243, 40, 4);
+}
